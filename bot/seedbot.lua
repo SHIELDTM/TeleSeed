@@ -230,27 +230,19 @@ function create_config( )
     },
     sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
+    about_text = [[shield supergp v1.0
+____________
+Sudo : @hafez1116hafez
 
-https://github.com/SEEDTEAM/TeleSeed
+Sudo : @amirho3ien911
 
-Admins
-@Empero [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
+Sudo : @redcross_king
+————————————
+در صورت داشتن پیشنهاد به ما بگویید
+!feedback (پیشنهاد)
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+↓کانال تیم شیلد↓
+@shieldTM
 ]],
     help_text_realm = [[
 Realm Commands:
